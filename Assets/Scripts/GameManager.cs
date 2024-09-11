@@ -13,11 +13,11 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetKeyDown(KeyCode.L))
         {
             Cursor.lockState = CursorLockMode.Locked;
         }
-        if (Input.GetMouseButtonDown(1))
+        if (Input.GetKeyDown(KeyCode.U))
         {
             Cursor.lockState = CursorLockMode.None;
         }

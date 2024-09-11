@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SkyboxProject.unity
     guid: 3243d90ec81786a438d4402c7a4d4061
+  - enabled: 1
+    path: Assets/Scenes/TreePixelArt.unity
+    guid: 5f8014f0a1c0e32449e57116d56430f0
   m_configObjects: {}
